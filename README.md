@@ -98,13 +98,13 @@ It is the main starting file. It processes the mortality and obesity data using 
 
 Apart from the two charts of scatter plot and regression in python, I made four maps on qgis showing state wise mortality, State wise obesity, state wise mortality due to the diabetes and cardiovascular disease and a color ramp showing prevalence of obesity and mortality due to diabetes and heart disease.
 
-![alt text](Data/Output/QGIS/mortality_us_state_popn.png)
+![alt text](https://github.com/ayeshanoorilahi/Obesity-and-Mortality-in-the-United-States--A-Focus-on-Diabetes-and-Cardiovascular-Disease/blob/main/Data/Output/QGIS/mortality_us_state_popn.PNG?raw=true)
 
-![alt text](Data/Output/QGIS/obesity.png)
+![alt text](https://github.com/ayeshanoorilahi/Obesity-and-Mortality-in-the-United-States--A-Focus-on-Diabetes-and-Cardiovascular-Disease/blob/main/Data/Output/QGIS/obesity.PNG?raw=true)
 
-![alt text](Data/Output/QGIS/mortality_by_condition.png)
+![alt text](https://github.com/ayeshanoorilahi/Obesity-and-Mortality-in-the-United-States--A-Focus-on-Diabetes-and-Cardiovascular-Disease/blob/main/Data/Output/QGIS/mortality_by_condition.PNG?raw=true)
 
-![alt text](Data/Output/QGIS/mortality_obesity.png)
+![alt text](https://github.com/ayeshanoorilahi/Obesity-and-Mortality-in-the-United-States--A-Focus-on-Diabetes-and-Cardiovascular-Disease/blob/main/Data/Output/QGIS/mortality_obesity.PNG?raw=true)
 
 **Key Findings:**
 
