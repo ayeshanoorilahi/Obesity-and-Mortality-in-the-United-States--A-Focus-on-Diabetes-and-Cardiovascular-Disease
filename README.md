@@ -112,9 +112,10 @@ High mortality rates due to cardiovascular disease and diabetes are found in sta
 
 With our analysis we can also conclude that if obesity is the driving factor of deaths due to diabetes and cardiovascular diseases then these deaths are preventable if obesity can be tackled effectively. One promising avenue is to investigate the role of Social Determinants of Health (SDOH), which refer to the environmental conditions individuals are exposed to throughout their lives, including their places of residence, education, work, leisure, and religious activities. These factors can exert a substantial influence on people's health, well-being, and susceptibility to various health outcomes, as recognized by the CDC.
 
-Social determinants of health can play a significant role in mitigating obesity in the USA. Some examples of social determinants of health that can impact obesity rates include:
+ Some examples of social determinants of health that can impact obesity rates include:
 
-- **Access to healthy food:** Limited access to affordable, healthy food options in low-income neighborhoods and food deserts can contribute to obesity rates. Access to healthy and affordable food options in low-income neighborhoods can be improved through policies and initiatives that incentivize grocery stores and farmers' markets to open in these areas. Improving access to healthy food options can help reduce obesity rates.
+- **Access to healthy food:** Limited access to affordable, healthy food options in low-income neighborhoods and food deserts can contribute to obesity rates. Access to healthy and affordable food options in low-income neighborhoods can be improved through policies and initiatives that incentivize grocery stores and farmers' markets to open in these areas. 
+
 - **Physical activity:** Increasing access to safe and affordable places for physical activity, such as parks and community centers, can help reduce obesity rates.
 - **Education:** Providing education on healthy eating and physical activity can help reduce obesity rates.
 - **Social support:** Lack of social support can contribute to obesity rates, as individuals may not have the support, they need to maintain a healthy lifestyle. Increasing social support through community programs and support groups can help reduce obesity rates.
@@ -124,10 +125,17 @@ It is important to note that addressing obesity requires a comprehensive approac
 
 **What strategies have states with lower obesity rates implemented?**
 
-Washington has implemented the National School Lunch Program (NSLP) to provide nutritious meals to children and promote their health and well-being.
+From our analysis, some of the states with less than 30% obesity rates are Washington, Colorado, Utah and Wyoming to name a few. Some of the noteworthy policies they have implemented to curb obesity in their states are:
 
 All four states (Washington, Colorado, Utah, and Wyoming) have policies to support active transportation, including bike lanes, pedestrian-friendly sidewalks, and trails. For instance, Colorado's Complete Streets policy requires transportation planners and engineers to consider the needs of all users, such as bicyclists, pedestrians, and motorists.
+
+Washington has implemented the National School Lunch Program (NSLP) to provide nutritious meals to children and promote their health and well-being.
+
 
 The "Eat Well Utah" initiative, launched by the Utah Department of Health and Human Services, aims to increase the availability and appeal of healthy food choices at all food service and retail locations across the state.
 
 Colorado has implemented a menu labeling law that requires chain restaurants to display the calorie content of their menu items.
+
+**Way Forward:**
+
+In future, as we strive to mitigate the prevalence of obesity and its associated health outcomes, it is imperative that we continue to explore and implement effective public policies that address the social determinants of health. Future research can delve deeper into the needs and demographics of individuals in obesity prevalent regions, paving the way for targeted interventions that address the root causes of obesity. As we move forward, it is essential to remember that obesity and its related health conditions are preventable, and by working together, we can create a healthier, more equitable society for all.
