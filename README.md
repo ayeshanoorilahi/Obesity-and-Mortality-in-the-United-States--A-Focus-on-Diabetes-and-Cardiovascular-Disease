@@ -8,7 +8,8 @@ The repository consists of mortality data taken from the Center for Disease Cont
 
 **Input Data**
 
-The repository data consists of two types of data mortality and obesity data.
+In order to run the project, one will need to create a subdirectory named "input" under the "Data" directory and place the following files with the exact names given below.
+To get the mortality data one will go to CDC wonder link given below. After agreeing to the query, under section "Organise the table layout" choose group results by "State". Then under the section "Cause of death" choose for "all causes" and export the data. Same steps will be carried out for mortality data due to "Diseases of the circulatory system" and mortality data due to "Endocrine, nutritional and metabolic diseases."
 
 1. **Mortality data:**
 The mortality data consists of mortality rates overall in the USA states from 2018 to 2021. Mortality rates due to diabetes and mortality rates due to cardiovascular disease in the USA states from 2018 to 2021.
@@ -98,13 +99,19 @@ It is the main starting file. It processes the mortality and obesity data using 
 
 Apart from the two charts of scatter plot and regression in python, I made four maps on qgis showing state wise mortality, State wise obesity, state wise mortality due to the diabetes and cardiovascular disease and a color ramp showing prevalence of obesity and mortality due to diabetes and heart disease.
 
-![alt text](https://github.com/ayeshanoorilahi/Obesity-and-Mortality-in-the-United-States--A-Focus-on-Diabetes-and-Cardiovascular-Disease/blob/main/Data/Output/QGIS/mortality_us_state_popn.PNG?raw=true)
 
-![alt text](https://github.com/ayeshanoorilahi/Obesity-and-Mortality-in-the-United-States--A-Focus-on-Diabetes-and-Cardiovascular-Disease/blob/main/Data/Output/QGIS/obesity.PNG?raw=true)
+
 
 ![alt text](https://github.com/ayeshanoorilahi/Obesity-and-Mortality-in-the-United-States--A-Focus-on-Diabetes-and-Cardiovascular-Disease/blob/main/Data/Output/QGIS/mortality_by_condition.PNG?raw=true)
 
 ![alt text](https://github.com/ayeshanoorilahi/Obesity-and-Mortality-in-the-United-States--A-Focus-on-Diabetes-and-Cardiovascular-Disease/blob/main/Data/Output/QGIS/mortality_obesity.PNG?raw=true)
+
+![alt text](https://github.com/ayeshanoorilahi/Obesity-and-Mortality-in-the-United-States--A-Focus-on-Diabetes-and-Cardiovascular-Disease/blob/main/Data/Output/scatter_plot.png?raw=true)
+
+
+
+![alt text](https://github.com/ayeshanoorilahi/Obesity-and-Mortality-in-the-United-States--A-Focus-on-Diabetes-and-Cardiovascular-Disease/blob/main/Data/Output/regplot.png?raw=true)
+
 
 **Key Findings:**
 
