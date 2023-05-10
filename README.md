@@ -76,6 +76,8 @@ The project creates the following output files
 
 **Scripts:**
 
+main.py will be executed first, as it comprises of multiple python scripts. Individual scripts are explained below.
+
 - **common.py**
 In this script we are holding common functions.
 
