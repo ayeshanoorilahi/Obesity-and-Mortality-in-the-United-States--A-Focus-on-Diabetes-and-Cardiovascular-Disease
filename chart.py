@@ -28,7 +28,8 @@ def reg_plot(output_path, data):
     fig,ax = plt.subplots()
     sns.regplot(data=data, x="ObesityPercent", y="Crude_Death_Rate_Conditions_Overall", ci =90)
     
-    plt.title('Regression Plot of Obesity and Mortality by Conditions with 90% Confidence Intervals')
+    plt.title("Diabetes and Cardiovascular disease with 90% Confidence Interval")
+    plt.suptitle("Regression plot of Obesity and Mortality")
     plt.xlabel('Obesity%')
     plt.ylabel('Mortality Rate By Conditions')
     
